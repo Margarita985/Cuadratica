@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main (){
-//declarar las bariables
+//el programa lo que hace es resolber la cuadratica
+//con los numeros que le das que bendrian
+//siendo a,b y c.
 float a,b,c;
 float x1=0, x2=0;
 cout<<"DIGITE EL VALOR DE A: "; cin>>a;
