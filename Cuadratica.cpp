@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main (){
-
+//declarar las bariables
 float a,b,c;
 float x1=0, x2=0;
 cout<<"DIGITE EL VALOR DE A: "; cin>>a;
